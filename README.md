@@ -1,6 +1,6 @@
 
 # Using Machine Learning for Analyzing Yelp Reviews
-Final_Project_222.pdf: Final paper from my Data Science and Applied Microeconomics course
+Final_Project_222.pdf: Final paper from my Data Science and Applied Microeconomics course /n
 Project Files.zip: contains code and datasets used in analysis
 
 # Using Satellite Data to Study Pollution
